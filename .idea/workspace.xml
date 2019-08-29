@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c27bb2fb-e342-46b0-97b0-2d74888e0c57" name="Default Changelist" comment="" />
+    <list default="true" id="c27bb2fb-e342-46b0-97b0-2d74888e0c57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainActivity.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/git/babesleep" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubDefaultAccount">
@@ -31,7 +33,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567098143040</updated>
       <workItem from="1567098147347" duration="465000" />
-      <workItem from="1567098637695" duration="894000" />
+      <workItem from="1567098637695" duration="1322000" />
     </task>
     <servers />
   </component>
